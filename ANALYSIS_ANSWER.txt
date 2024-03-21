@@ -1,0 +1,13 @@
+Answer for Number #2
+Base on the actual result kof AI chatbot it looks fine but the content are not pleasing to the eye of the readers
+As a Backend developer will still adjust the alignment of the content and make the text move to the left side to make this possible we apply the responsive web design and added some css properties to make sure that the responsive of the page or content is also applied in other browsers.
+
+
+Answer for Number #3
+
+From the actual result ,we observe that there is some error in alignment of input field and the
+the call to action button is being cover buy the submit button which it should not.
+
+So for the solution as the expected result we will adjust the space ,size and the alignment of field to make all the elements fit in the screen we make this responsive using media queries,flexbox ,grid so i can adjust base on what  platforms or gadget you are using. 
+
+ 
